@@ -1,6 +1,2 @@
 # How to use
-For the fonts on linux you need to run the following commands after you put the fontconfig in the correct place (Only works on ubuntu and maybe debian and ubuntu based distros)
-```bash
-sudo apt-get install fonts-noto
-fc-cache -fv
-```
+For the fonts on linux go to https://gist.github.com/TheBunnyMan123/d8f5c08a5353bc28524596830c221c59
